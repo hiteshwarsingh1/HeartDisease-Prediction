@@ -1,0 +1,6 @@
+,Random Forest,KNN,Naïve Bayes,Descison Tree,Logistic Regression
+Accuracy,93.84%,92.44%,85.15%,89.36%,82.63%
+Precision,93.75%,91.16%,85.14%,86.32%,80.98%
+Recall,93.75%,93.75%,84.66%,93.18%,84.66%
+F Score,93.75%,92.44%,84.90%,89.62%,82.78%
+,,,,,
